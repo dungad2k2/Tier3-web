@@ -1,0 +1,7 @@
+__pycache__/
+api/__pycache__/
+db/__pycache__/
+instance/
+api/__pycache__/
+myenv/
+web/__pycache__/
